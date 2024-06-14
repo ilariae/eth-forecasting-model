@@ -10,6 +10,8 @@ Ethereum is a decentralized, open-source blockchain with smart contract function
 This dataset provides the history of daily prices of Ethereum. The data starts from 09-Aug-2015 and ends 07-Jul-2021.
 
 
+Dataset used: 
+https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory 
 
 The project consists of:
 - Data Exploration 
